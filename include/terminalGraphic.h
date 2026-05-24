@@ -26,7 +26,7 @@
 typedef enum
 {
     RESET = 00,
-    RED = 01, GREEN = 02, YELLOW = 03, BLUE = 04, MAGENTA = 05, CYAN = 06, WHITE = 07, BLACK = 8,
+    RED = 1, GREEN = 2, YELLOW = 3, BLUE = 4, MAGENTA = 5, CYAN = 6, WHITE = 7, BLACK = 8,
     B_RED = 9, B_GREEN = 10, B_YELLOW = 11, B_BLUE = 12, B_MAGENTA = 13, B_CYAN = 14, B_WHITE = 15, B_BLACK = 16,
     AIR = -1
 } ColorID;
