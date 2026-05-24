@@ -1,0 +1,3 @@
+E:/Code/Project/bird_terminalGraphic_c/build/CMakeFiles/FlappyGame.dir
+E:/Code/Project/bird_terminalGraphic_c/build/CMakeFiles/edit_cache.dir
+E:/Code/Project/bird_terminalGraphic_c/build/CMakeFiles/rebuild_cache.dir
